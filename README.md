@@ -20,3 +20,8 @@ ___
 
 ___
 Heres the x ray view of the print in place hinge this is my first time designing this, im REALLY proud of how i was able to make a really cool lock by js using the stylus as lock : D
+
+___
+https://www.printables.com/model/1858863-anbernic-rg-ds-case
+___
+Printables link to the model : D
